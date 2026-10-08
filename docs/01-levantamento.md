@@ -152,5 +152,7 @@ NPS): lista em `03-pendencias-decisoes.md`. Até lá os marketing acima servem, 
 4. **Código de rastreio** não existe em campo nenhum do PipeRun (só no Vexta/Correios).
 5. **PipeRun não tem webhook configurado**: detecção de mudança de etapa é por leitura periódica (como já
    fazem Régua 1, Email Lead e Gerente IA).
-6. **Regra dura**: o Toninho precisa escrever no PipeRun (mover etapa do CS, nota, NPS) e isso exige aprovação
+6. **Janela de 24h fechada no acolhimento.** O cliente conversou com o vendedor dias antes do Pedido Aprovado; na
+   hora do acolhimento a janela gratuita já fechou (simulado com o pedido 7014). Templates UTILITY são pré-requisito.
+7. **Regra dura**: o Toninho precisa escrever no PipeRun (mover etapa do CS, nota, NPS) e isso exige aprovação
    explícita do Humberto (ver pendências).
